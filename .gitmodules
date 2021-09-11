@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/UPBGE/UPBGE-API.git
+[submodule "manual"]
+	path = manual
+	url = https://github.com/UPBGE/UPBGE-Docs-build.git
+[submodule "manual_api_0.2.5"]
+	path = manual_api_0.2.5
+	url = https://github.com/UPBGE/UPBGE-Docs-0.2.5-build.git
