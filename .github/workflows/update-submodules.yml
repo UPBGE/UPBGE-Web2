@@ -9,7 +9,7 @@ on:
     branches: [ master ]
     
   schedule:
-    - cron: "* * */12 * *" # Run every 12 hours
+    - cron: "0 */6 * * *" # Run every 6 hours
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
